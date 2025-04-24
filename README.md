@@ -29,12 +29,12 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Slot Time Table - Sai Sathya V</title>
+    <title>Slot Time Table - S NIKSHITHA</title>
 </head>
 <body>
     <img src="/static/logo.png" height="100" width="540">
     <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - SAI SATHYA V (22008626)</h3>
+    <h3>SLOT TIME TABLE - S NIKSHITHA </h3>
 
     <table border="1">
         <tr>
@@ -137,7 +137,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![niki time](https://github.com/user-attachments/assets/153077ab-c6b9-4f1c-b8da-1eb301fdf4f2)
+
+![nikshiw](https://github.com/user-attachments/assets/40a29ccf-7bb0-42ed-bdeb-ff5e9f8f8bc2)
 
 
 
