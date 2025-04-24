@@ -176,8 +176,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+![NIKSHI](https://github.com/user-attachments/assets/ace34df7-0cd9-4da1-86c7-93bed67a501c)
 
-![nikshi time table](https://github.com/user-attachments/assets/22ea2895-3c93-4463-a1f2-38b5e6527654)
 
 
 ## RESULT
