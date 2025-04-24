@@ -137,7 +137,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<niki time-1.png>)
+![niki time](https://github.com/user-attachments/assets/153077ab-c6b9-4f1c-b8da-1eb301fdf4f2)
+
 
 
 
